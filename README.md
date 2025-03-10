@@ -1,3 +1,12 @@
+## try the todolist example
+
+
+<p align="center">
+  <a href="https://github.com/himangmyid/Lynx-himangmyid">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=himangmyid&repo=Lynx-himangmyid&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
 ## Rspeedy project
 
 This is a ReactLynx project bootstrapped with `create-rspeedy`.
